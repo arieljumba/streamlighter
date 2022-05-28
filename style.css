@@ -1,0 +1,30 @@
+/* Page background */
+div.css-fg4pbf{
+    background-color: rgb(196, 189, 173);
+    font-size: 8px;
+}
+
+/* Main TiTle */
+div.css-zt5igj{
+    /*background-color: rgb(196, 189, 173);*/
+    letter-spacing: 5px;
+    text-align: center;
+    font-weight: bold;
+    top: 0;
+    
+}    
+/* Sidebar Menu*/
+div.css-1pd56a0{
+    letter-spacing: 5px;
+    color: crimson;
+    font-weight: bold;
+}
+
+/*labels*/
+div.css-v37k9u{
+    font-size: 8px;
+
+}
+div.css-ocqkz7{
+    font-size: 6px;
+}
